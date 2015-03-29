@@ -1,4 +1,4 @@
-# FaceDetectionDemo
+# Face Detection Demo
 
 This is a basic demo of Face Detection using OpenCV's implementation of the  Haar Feature-based Cascade Classifiers proposed by  Paul Viola and Michael Jones in their paper, "Rapid Object Detection using a Boosted Cascade of Simple Features."
 
